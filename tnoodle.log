@@ -9,3 +9,14 @@
 2022-10-15 15:54:43,685 INFO [main] o.w.t.s.w.WebscramblesServer [WebscramblesServer.kt:126] TNoodle-WCA-1.1.2 started
 2022-10-15 15:54:43,688 INFO [main] o.w.t.s.w.s.OfflineJarUtils [OfflineJarUtils.kt:23] Attempting to open http://localhost:2014 in browser.
 2022-10-18 10:42:45,040 INFO [SystemTrayEventDispatch-1] o.w.t.s.w.s.OfflineJarUtils [OfflineJarUtils.kt:66] Exit initiated from tray icon
+2022-12-09 13:24:47,072 INFO [main] o.w.t.s.w.s.MainLauncher [MainLauncher.kt:44] Detected os: Windows 10
+2022-12-09 13:24:47,075 WARN [main] o.w.t.s.w.s.MainLauncher [MainLauncher.kt:123] C:\Program Files\Java\jre1.8.0_331\temp-launcher is not a directory.
+2022-12-09 13:24:47,076 INFO [main] o.w.t.s.w.s.MainLauncher [MainLauncher.kt:50] needsReExecing: false
+2022-12-09 13:24:47,795 INFO [main] d.s.SystemTray [SystemTray.java:797] Successfully loaded
+2022-12-09 13:24:47,808 WARN [main] d.s.SystemTray [MenuItem.java:465] Please disable tooltips, as they are not consistent across all platforms and tray types.
+2022-12-09 13:24:50,087 INFO [main] Application [ApplicationEngineEnvironmentReloading.kt:146] Autoreload is disabled because the development mode is off.
+2022-12-09 13:24:50,411 INFO [main] Application [BaseApplicationEngine.kt:52] Responding at http://0.0.0.0:2014
+2022-12-09 13:24:50,411 INFO [main] Application [BaseApplicationEngine.kt:59] Application started in 0.333 seconds.
+2022-12-09 13:24:50,732 INFO [main] o.w.t.s.w.WebscramblesServer [WebscramblesServer.kt:126] TNoodle-WCA-1.1.2 started
+2022-12-09 13:24:50,732 INFO [main] o.w.t.s.w.s.OfflineJarUtils [OfflineJarUtils.kt:23] Attempting to open http://localhost:2014 in browser.
+2022-12-09 13:45:05,700 INFO [SystemTrayEventDispatch-1] o.w.t.s.w.s.OfflineJarUtils [OfflineJarUtils.kt:66] Exit initiated from tray icon
